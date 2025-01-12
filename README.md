@@ -1,5 +1,5 @@
 ## A Frontend Mentor challenge. (CSS)
-Project: 
+Project: Stats preview card component
 
 ### Design Overview
-[![qr-code-component.png](https://i.postimg.cc/MpPYHgrv/qr-code-component.png)](https://postimg.cc/WdZZfYVv)
+[![stats-preview-card-project.png](https://i.postimg.cc/K8DCSDpf/stats-preview-card-project.png)](https://postimg.cc/NKLdRmc2)
